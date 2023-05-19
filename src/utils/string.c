@@ -1,4 +1,4 @@
-#include "zenoh-pico/utils/string.h"
+#include "zenoh-pico/utils/zenoh_string.h"
 
 #include <stdbool.h>
 #include <string.h>

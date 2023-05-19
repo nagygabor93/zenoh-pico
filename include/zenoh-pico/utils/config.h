@@ -18,7 +18,7 @@
 #include <stdint.h>
 
 #include "zenoh-pico/collections/intmap.h"
-#include "zenoh-pico/collections/string.h"
+#include "zenoh-pico/collections/zenoh_string.h"
 #include "zenoh-pico/utils/result.h"
 
 // Properties returned by _z_info()

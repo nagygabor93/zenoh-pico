@@ -14,6 +14,7 @@
 #ifndef ZENOH_PICO_COLLECTIONS_STRING_H
 #define ZENOH_PICO_COLLECTIONS_STRING_H
 
+#include <string.h>
 #include "zenoh-pico/collections/array.h"
 #include "zenoh-pico/collections/bytes.h"
 #include "zenoh-pico/collections/element.h"

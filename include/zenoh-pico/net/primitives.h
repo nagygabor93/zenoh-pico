@@ -14,7 +14,7 @@
 #ifndef ZENOH_PICO_PRIMITIVES_NETAPI_H
 #define ZENOH_PICO_PRIMITIVES_NETAPI_H
 
-#include "zenoh-pico/collections/string.h"
+#include "zenoh-pico/collections/zenoh_string.h"
 #include "zenoh-pico/net/publish.h"
 #include "zenoh-pico/net/query.h"
 #include "zenoh-pico/net/session.h"

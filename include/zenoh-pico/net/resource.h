@@ -15,7 +15,7 @@
 #ifndef ZENOH_PICO_RESOURCE_NETAPI_H
 #define ZENOH_PICO_RESOURCE_NETAPI_H
 
-#include "zenoh-pico/collections/string.h"
+#include "zenoh-pico/collections/zenoh_string.h"
 #include "zenoh-pico/protocol/core.h"
 
 /**

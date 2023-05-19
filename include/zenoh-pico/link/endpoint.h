@@ -15,10 +15,11 @@
 #ifndef ZENOH_PICO_LINK_ENDPOINT_H
 #define ZENOH_PICO_LINK_ENDPOINT_H
 
+#include <string.h>
 #include "zenoh-pico/collections/array.h"
 #include "zenoh-pico/collections/element.h"
 #include "zenoh-pico/collections/intmap.h"
-#include "zenoh-pico/collections/string.h"
+#include "zenoh-pico/collections/zenoh_string.h"
 #include "zenoh-pico/utils/result.h"
 
 /*------------------ Locator ------------------*/

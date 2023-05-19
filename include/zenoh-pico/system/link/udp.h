@@ -17,7 +17,7 @@
 
 #include <stdint.h>
 
-#include "zenoh-pico/collections/string.h"
+#include "zenoh-pico/collections/zenoh_string.h"
 #include "zenoh-pico/system/platform.h"
 
 #if Z_LINK_UDP_UNICAST == 1 || Z_LINK_UDP_MULTICAST == 1

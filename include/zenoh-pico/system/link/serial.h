@@ -17,7 +17,7 @@
 
 #include <stdint.h>
 
-#include "zenoh-pico/collections/string.h"
+#include "zenoh-pico/collections/zenoh_string.h"
 #include "zenoh-pico/config.h"
 #include "zenoh-pico/system/platform.h"
 

@@ -20,7 +20,7 @@
 #include "zenoh-pico/collections/element.h"
 #include "zenoh-pico/collections/list.h"
 #include "zenoh-pico/collections/pointer.h"
-#include "zenoh-pico/collections/string.h"
+#include "zenoh-pico/collections/zenoh_string.h"
 #include "zenoh-pico/config.h"
 #include "zenoh-pico/protocol/core.h"
 #include "zenoh-pico/transport/manager.h"

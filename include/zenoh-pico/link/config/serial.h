@@ -16,7 +16,7 @@
 #define ZENOH_PICO_LINK_CONFIG_SERIAL_H
 
 #include "zenoh-pico/collections/intmap.h"
-#include "zenoh-pico/collections/string.h"
+#include "zenoh-pico/collections/zenoh_string.h"
 #include "zenoh-pico/config.h"
 #include "zenoh-pico/system/platform.h"
 

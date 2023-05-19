@@ -19,7 +19,7 @@
 #include <string.h>
 
 #include "zenoh-pico/utils/pointers.h"
-#include "zenoh-pico/utils/string.h"
+#include "zenoh-pico/utils/zenoh_string.h"
 
 /*------------------ Canonize helpers ------------------*/
 zp_keyexpr_canon_status_t __zp_canon_prefix(const char *start, size_t *len) {
